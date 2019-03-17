@@ -1,0 +1,25 @@
+.contmain{
+    margin-left: -1%;
+     float: left;
+     padding: 0px
+}
+.cont_side{
+    margin-left:-6%;
+   
+    float:left;
+}
+.navclass{
+    width:120%;
+    float: left;
+}
+.colspan{
+    color:black;
+    font-size: 110%;
+    padding:0px;
+    
+  
+}
+.click{
+    pointer-events: visibleStroke;
+    cursor: default;
+}
