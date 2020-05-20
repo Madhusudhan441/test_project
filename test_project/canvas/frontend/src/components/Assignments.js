@@ -1,9 +1,13 @@
 import React, { Component } from 'react'
 import axios from 'axios';
 import './Assignments.css'
+import './Announcements.js'
 mport './Assignments.css'
 import './Assignments.css'
 import './Assignments.css'
+=======
+import './Announcements.css'
+>>>>>>> second commit
 import cookie from 'react-cookies';
 import {Redirect} from 'react-router';
 export default class Assignments extends Component {
