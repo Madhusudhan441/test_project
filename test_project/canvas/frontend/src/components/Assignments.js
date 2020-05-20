@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import axios from 'axios';
-<<<<<<< HEAD
+<<<<<<< HEA
+sinD
 import './Assignments.css'`
 import './Announcements.css'
 import './Assignments.js'
