@@ -4,7 +4,7 @@ import './Assignments.css'
 import './Announcements.js'
 mport './Assignments.css'
 import './Assignments.css'
-
+import 'Announcements.js'
 import 'Home.css'
 >>>>>>> 52921f7f58381fc367c1c332bcd603ea07a919c6
 import cookie from 'react-cookies';
