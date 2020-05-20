@@ -1,12 +1,18 @@
 import React, { Component } from 'react'
 import axios from 'axios';
+<<<<<<< HEAD
 import './Assignments.css'`
 import './Announcements.css'
 import './Assignments.js'
 =======
+=======
+import './Assignments.css'
+import './Announcements.js'
+>>>>>>> 8e2454c1742edc3a773cffa48213a37731da2b5a
 mport './Assignments.css'
+import './Something'
 import './Assignments.css'
-import './Assignments.css'
+import 'Announcements.js'
 import 'Home.css'
 >>>>>>> 52921f7f58381fc367c1c332bcd603ea07a919c6
 import cookie from 'react-cookies';

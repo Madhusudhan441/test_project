@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from './Navbar'
 import ProfileMain from './ProfileMain'
+import 'Assignments.js'
 import './Coursehome.css'
 import Assignments from './Assignments';
 import Announcements from './Announcements';
